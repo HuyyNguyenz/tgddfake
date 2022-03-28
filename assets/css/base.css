@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 62.5%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --primary-color: #fed100;
+    --header-mid-color: #000000;
+    --header-top-color: #ef4b71;
+    --special-color: #e91e63;
+    --rate-color: #fb6e2e;
+    --name-hover-color: #288ad8;
+    --content-watch-color: #003743;
+    --buy-btn-color: #fb6e2e;
+    --pay-btn-color: #2f80ed;
+
+    --header-height: 44px;
+    --header-item-height: 30px;
+}
+
+.no {
+    display: none !important;
+}
+
+.yes {
+    display: flex !important;
+}
